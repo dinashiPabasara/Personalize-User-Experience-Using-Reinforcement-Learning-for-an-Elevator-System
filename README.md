@@ -3,7 +3,7 @@
 
 This project introduces an intelligent elevator reservation system that leverages face recognition and reinforcement learning to optimize elevator usage and enhance user experience, particularly in high-traffic environments like universities and office buildings.
 
-Key Features
+# Key Features
 
 User Identification via Face Recognition
 
@@ -49,7 +49,7 @@ User feedback
 
 Recognition and priority assignment results
 
-Tech Stack
+# Tech Stack
 
 Frontend / Mobile App: Flutter (or similar)
 
@@ -61,7 +61,7 @@ Machine Learning: Actor-Critic Reinforcement Learning (TensorFlow / PyTorch)
 
 Cloud Storage: AWS S3 for profile image handling
 
-System Workflow Overview
+# System Workflow Overview
 
 User Registers/Login on the app → uploads clear face image
 
