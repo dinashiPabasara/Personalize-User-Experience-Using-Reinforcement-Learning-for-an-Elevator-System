@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/6ce28580-5d16-4db8-aea3-8e34a4b42243
 # Personalize-User-Experience-Using-Reinforcement-Learning-for-an-Elevator-System
 
 This project introduces an intelligent elevator reservation system that leverages face recognition and reinforcement learning to optimize elevator usage and enhance user experience, particularly in high-traffic environments like universities and office buildings.
